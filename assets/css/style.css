@@ -1,0 +1,100 @@
+html{
+  font-family: 'Roboto', sans-serif;
+}
+.block1{
+width: 1740px;
+height: 400px;
+background: #EEEFF1;
+}
+.header{
+  display: inline-block;
+  margin-left: 300px;
+  margin-top: 20px;
+}
+.logo {
+  display: inline-block;
+  margin-right: 50px;
+}
+.nav{
+  display: inline-block;
+  margin-left: 200px;
+}
+.nav__list{
+
+}
+.nav__item{
+  display: inline-block;
+  margin-right: 30px;
+  
+}
+.nav__link{
+    /*font-family: Roboto;*/
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+.nav__link:hover,
+
+.nav__link.active{
+  color: #34547A;  
+}
+
+.block2{
+  width: 1920px;
+  margin-top: 100px;
+  margin-left: 300px;
+}
+
+
+.block2_img{
+  display: inline-block;
+  margin-left: 100px ;
+  
+}
+.desktop{
+width: 250px;
+height: 200px;
+padding-bottom: 170px;
+
+}
+.block2_text{
+  display: inline-block;
+  margin-left: 75px;
+}
+.block2_text_h{
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 79px;
+letter-spacing: 0em;
+text-align: left;
+}
+.block2_text_description{
+  width: 500px;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.block2_button{
+  margin-top: 20px;
+}
+button{
+  background: #34547A;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  }
+  .button_text{
+    color:white;
+  }
+
+
